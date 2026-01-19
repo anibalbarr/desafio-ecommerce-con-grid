@@ -1,2 +1,2 @@
 # desafio-ecommerce-con-grid
-trabajo 2
+trabajo2
